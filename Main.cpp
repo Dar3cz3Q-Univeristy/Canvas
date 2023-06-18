@@ -89,7 +89,7 @@ int main(int argc, char* argv[])
     canvas.print();
 
     string resultFileName = config["outputFileName"].asString();
-    cout << "\nTrwa zapis do pliku " << resultFileName << endl;
+    cout << "\nTrwa zapis do pliku: " << resultFileName << endl;
 
     fstream result;
     result.open(resultFileName, ios::out);

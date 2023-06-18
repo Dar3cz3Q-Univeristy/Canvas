@@ -1,6 +1,9 @@
 # Output files
 *.ascii
 
+# Config files
+*.json
+
 # Prerequisites
 *.d
 

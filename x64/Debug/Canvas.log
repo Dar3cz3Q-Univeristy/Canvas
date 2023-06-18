@@ -1,0 +1,6 @@
+﻿  Main.cpp
+E:\Programming\Canvas\Main.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+E:\Programming\Canvas\Source.cpp(85,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Canvas.vcxproj -> E:\Programming\Canvas\x64\Debug\Canvas.exe

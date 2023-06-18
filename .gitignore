@@ -1,3 +1,6 @@
+# Output files
+*.ascii
+
 # Prerequisites
 *.d
 

@@ -7,7 +7,7 @@
 1. Clone the repository,
 2. Fill up the configuration file (schema shown below),
 3. Run ```g++ Main.cpp Source.cpp Header.h dist/jsoncpp.cpp dist/json/json.h dist/json/json-forwards.h -o main``` command to compile,
-4. Run ```./main``` file, use the name of the configuration file as an argument,
+4. Run ```./main``` command, use the name of the configuration file as an argument,
 
 ## Config file
 
